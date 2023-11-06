@@ -54,4 +54,4 @@ Construct a Tester class within the same namespace that tests the Customer Class
 
 - Create at least 3 different customers
 - Demonstrate the use of the different methods specified
-- Save your project files as a compressed file named it \<yoursurname\>-\<MM\_DD\_YY\>-drill1.rar to a folder named CSP1
+- Save your project files as a compressed file named it \<yoursurname\>-\<MM\_DD\_YY\>-activity.rar to a folder named ITE1
